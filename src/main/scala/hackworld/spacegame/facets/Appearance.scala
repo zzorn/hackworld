@@ -8,6 +8,7 @@ import scala.collection.JavaConversions._
 import hackworld.NearSpace.SpaceGame
 import com.jme3.scene.{Mesh, Spatial, Node, Geometry}
 import hackworld.spacegame.EmptyNode
+import hackworld.spacegame.entity.Facet
 
 /**
  * 

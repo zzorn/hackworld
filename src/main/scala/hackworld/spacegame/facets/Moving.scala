@@ -2,6 +2,7 @@ package hackworld.spacegame.facets
 
 import org.scalaprops.Property
 import com.jme3.math.{Quaternion, Vector3f}
+import hackworld.spacegame.entity.Facet
 
 /**
  * Something that moves

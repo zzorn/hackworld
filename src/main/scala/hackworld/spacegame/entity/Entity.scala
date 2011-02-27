@@ -1,8 +1,5 @@
 package hackworld.spacegame.entity
 
-import com.jme3.scene.Geometry
-import hackworld.spacegame.facets.Facet
-import org.codehaus.jackson.JsonNode
 
 /**
  * 

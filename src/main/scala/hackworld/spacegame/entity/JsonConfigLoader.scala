@@ -4,7 +4,6 @@ import com.jme3.asset.{AssetInfo, AssetLoader}
 import java.io.BufferedInputStream
 import org.codehaus.jackson.map.ObjectMapper
 import org.codehaus.jackson.JsonNode
-import hackworld.spacegame.FacetManager
 
 /**
  * Loads json formatted config files.

@@ -1,6 +1,7 @@
 package hackworld.spacegame.facets
 
 import com.jme3.math.{Quaternion, Vector3f}
+import hackworld.spacegame.entity.Facet
 
 /**
  * Something with thrusters that can be moved about

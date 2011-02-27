@@ -2,6 +2,7 @@ package hackworld.spacegame.facets
 
 import java.lang.String
 import com.jme3.input.controls.{ActionListener, AnalogListener, InputListener}
+import hackworld.spacegame.entity.Facet
 
 /**
  * 

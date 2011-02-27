@@ -5,13 +5,8 @@ import com.jme3.scene.Node
 import com.jme3.asset.plugins.FileLocator
 import com.jme3.math.Vector3f
 import com.jme3.light.DirectionalLight
-import hackworld.spacegame.generators.{AsteroidGenerator, PlanetGenerator}
-import scala.util.Random
-import com.jme3.input.InputManager
-import com.jme3.asset.AssetManager
-import hackworld.spacegame.FacetManager
 import hackworld.spacegame.facets._
-import hackworld.spacegame.entity.{EntityBuilder, JsonConfigLoader, Entity}
+import hackworld.spacegame.entity._
 
 /**
  * 

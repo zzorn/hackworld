@@ -1,6 +1,7 @@
 package hackworld.spacegame.facets
 
 import hackworld.NearSpace.SpaceGame
+import hackworld.spacegame.entity.Facet
 
 /**
  * 

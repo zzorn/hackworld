@@ -2,8 +2,6 @@ package hackworld.spacegame.entity
 
 import org.codehaus.jackson.JsonNode
 import hackworld.NearSpace.SpaceGame
-import hackworld.spacegame.FacetManager
-import hackworld.spacegame.facets.Facet
 import com.jme3.asset.AssetKey
 import scala.collection.JavaConversions._
 

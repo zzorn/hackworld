@@ -1,6 +1,7 @@
 package hackworld.spacegame.facets
 
 import com.jme3.math.{Vector3f, Quaternion}
+import hackworld.spacegame.entity.Facet
 
 /**
  * 
